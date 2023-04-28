@@ -1,4 +1,4 @@
-# Repositório de Projetos Python - Cursos Básicos
+# :books: Repositório de Projetos Python - Cursos Básicos
 
 Este repositório contém uma coleção de projetos simples e exercícios desenvolvidos durante a realização de diversos cursos básicos de Python. Os cursos abordam temas como programação em Python, Data Science, Git e GitHub.
 
