@@ -7,7 +7,7 @@ Este repositório contém uma coleção de projetos simples e exercícios desenv
 A seguir, estão listados os cursos realizados e incluídos neste repositório:
 
 1. **Curso de Python focado em Data Science**
-    - Este curso aborda os fundamentos de Python com foco em Data Science, incluindo bibliotecas como Pandas, NumPy, Matplotlib e Seaborn.
+    - Este curso aborda os fundamentos de Python com foco em Data Science, incluindo bibliotecas como Pandas, NumPy, Matplotlib e Seaborn com foco no mercado financeiro.
 
 2. **Curso em Vídeo Python**
     - Este é um curso introdutório de Python que aborda os fundamentos da linguagem, estruturas de controle, funções, manipulação de strings, entre outros tópicos.
@@ -49,8 +49,7 @@ Para executar os projetos e exercícios, certifique-se de que você possui uma v
 ```bash
 python nome_do_arquivo.py
 ```
-
-Algumas aplicações podem exigir a instalação de bibliotecas adicionais. Nesses casos, consulte o arquivo README correspondente para obter informações sobre como instalar e configurar as bibliotecas necessárias.
+Algumas aplicações podem exigir a instalação de bibliotecas adicionais. 
 
 ## Contribuição
 
